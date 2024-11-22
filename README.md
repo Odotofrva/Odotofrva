@@ -30,7 +30,7 @@ Education:
   ]
 Company: Robotic Visionary Academy
 
-fields_of_interests:
+Fields_of_interests:
   [
     "Open Source Hardware Design",
     "Open Source Software Development",
