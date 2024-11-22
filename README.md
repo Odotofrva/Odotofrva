@@ -21,14 +21,14 @@
 <h2>  &nbsp;A Little Bit About The Mighty Developer Named ODOT!</h2>
 
 ```yaml
-name: Odot of RVA.
-located_in: Asheville, North Carolina
-current_job: Founder of Robotic Visionary Academy (RVA)
-education:
+Name: Odot of RVA.
+Located_in: Asheville, North Carolina
+Current_job: Founder of Robotic Visionary Academy (RVA)
+Education:
   [
     "Self-Taught Developer and Engineer with a high school diploma.",
   ]
-company: Robotic Visionary Academy
+Company: Robotic Visionary Academy
 
 fields_of_interests:
   [
@@ -37,18 +37,10 @@ fields_of_interests:
     "Embedded Systems Development",
     "Robotics with microcontrollers",
   ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
   
-currently_learning: ["OS and Driver Development for Linux, Keyboard Design and Enginnering."]
+Currently_learning: ["OS and Driver Development for Linux, Keyboard Design and Enginnering."]
 2025 Goals: ["To become a Embedded Linux expert while contributing education to the next generation that enters the field of electronics."]
-hobbies: ["Listening to great music", "Retro Gaming", "Art", "Traveling"]
+Hobbies: ["Listening to great music", "Retro Gaming", "Art", "Traveling"]
 ```
   
 ---  
