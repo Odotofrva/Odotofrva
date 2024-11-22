@@ -26,7 +26,7 @@
 <h2>  &nbsp;A Little Bit About The Mighty Developer Named ODOT!</h2>
 
 ```yaml
-name: Orion F.
+name: Odot of RVA.
 located_in: Asheville, North Carolina
 current_job: Founder of Robotic Visionary Academy (RVA)
 education:
