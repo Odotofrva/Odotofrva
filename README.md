@@ -28,7 +28,7 @@ Education:
   [
     "Self-Taught Developer and Engineer with a high school diploma.",
   ]
-Company: Robotic Visionary Academy
+Company / Startup: Robotic Visionary Academy (RVA)
 
 Fields_of_interests:
   [
