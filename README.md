@@ -22,11 +22,11 @@
 
 ```yaml
 Name: ODOT!.
-Located_in: Asheville, North Carolina
-Current_job: Founder of Robotic Visionary Academy (RVA)
+Located_in: New York, New York
+Current_job: RoboTechi
 Education:
   [
-    "Self-Taught Developer and Engineer with a high school diploma.",
+    "Self-Taught Developer and Engineer",
   ]
 Company / Startup: Robotic Visionary Academy (RVA)
 
@@ -66,6 +66,7 @@ Hobbies: ["Listening to great music", "Retro Gaming", "Art", "Traveling"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
         
+
 
 
 
