@@ -1,34 +1,23 @@
 <p align="center">
-  <img src="odotnyc3final.png" width="180" alt="OdotNYC Logo"/>
+  <img src="#" width="200" alt="OdotNYC Logo"/>
 </p>
 
-<h1 align="center">ODOTNYC // ROBO TECHI</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=ODOTNYC+SYSTEM+BOOTING...;ROBOTECI+MODULE+ACTIVE;CREATIVE+TECHNOLOGIST+ONLINE;BUILDING+THE+FUTURE..." />
+</h1>
 
 <p align="center">
-  <strong>Where Code, Hardware, and Culture Sync Into One Signal</strong>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00f0ff?style=for-the-badge&logo=power&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MODE-INNOVATION-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BUILD-FUTURE_READY-00f0ff?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚡ SIGNAL ORIGIN
-
-OdotNYC is a creative technology ecosystem built at the intersection of **engineering, design, and culture**.
-
-RoboTechi operates as the tech division — focused on:
-- Embedded Systems  
-- Electronics & Hardware Innovation  
-- Creative Coding  
-- Network & Infrastructure Systems  
-- Future-leaning digital + physical experiences  
-
-> *Keep Your Vision Further Than Your Eyesight.*
-
----
-
-## 🧠 CURRENT OPERATIONS
+## 🧠 SYSTEM INITIALIZATION
 
 ```bash
-> Building systems that merge physical + digital worlds
-> Developing hardware concepts (NodeBlk, controllers, embedded devices)
-> Engineering immersive web experiences (AR / VR / interactive UI)
-> Designing platforms for culture, fashion, and tech (MENOCLONE)
+Booting OdotNYC Core...
+Loading RoboTechi Modules...
+Injecting Creative Intelligence...
+Establishing Signal...
