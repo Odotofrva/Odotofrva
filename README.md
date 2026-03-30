@@ -1,6 +1,6 @@
 <!-- ===================== ODOTNYC // README v3 ===================== -->
 <p align="center">
-  <img src="odotnyc3final.png" alt="OdotNYC Logo" width="180" />
+  <img src="odotnyc3final.png" alt="OdotNYC Logo" width="400" />
 </p>
 
 <h1 align="center">ODOTNYC // ROBO TECHI</h1>
