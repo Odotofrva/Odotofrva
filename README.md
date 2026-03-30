@@ -1,6 +1,6 @@
 <!-- ===================== ODOTNYC // README v3 ===================== -->
 <p align="center">
-  <img src="YOUR_LOGO_LINK_HERE" alt="OdotNYC Logo" width="180" />
+  <img src="odotnyc3final.png" alt="OdotNYC Logo" width="180" />
 </p>
 
 <h1 align="center">ODOTNYC // ROBO TECHI</h1>
@@ -198,16 +198,7 @@ RoboTechi is the technology division inside that ecosystem — focused on buildi
 OdotNYC is not just a portfolio.  
 It is a living signal of what happens when **Technology, Art, and Fashion** move together.
 
----
 
-
-
-For best results:
-1. Upload your logo to a repo or image host.
-2. Paste the direct image URL into `YOUR_LOGO_LINK_HERE`.
-3. Replace every `Odotofrva` with your actual GitHub username.
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=00F0FF&section=footer" alt="Footer Wave" />
