@@ -1,78 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=ODOT!&height=100&section=header"/>
+  <img src="odotnyc3final.png" width="180" alt="OdotNYC Logo"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Grow!💬
-</h1>
+<h1 align="center">ODOTNYC // ROBO TECHI</h1>
 
 <p align="center">
-<a href="https://www.instagram.com/odotnyctv">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="https://odotofrva.medium.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a>
-
+  <strong>Where Code, Hardware, and Culture Sync Into One Signal</strong>
 </p>
 
 ---
 
-<h2>  &nbsp;A Little Bit About The Mighty Developer Named ODOT!</h2>
+## ⚡ SIGNAL ORIGIN
 
-```yaml
-Name: ODOT!.
-Located_in: New York, New York
-Current_job: RoboTechi
-Education:
-  [
-    "Self-Taught Developer and Engineer",
-  ]
-Company / Startup: Robotic Visionary Academy (RVA)
+OdotNYC is a creative technology ecosystem built at the intersection of **engineering, design, and culture**.
 
-Fields_of_interests:
-  [
-    "Open Source Hardware Design",
-    "Open Source Software Development",
-    "Embedded Systems Development",
-    "Robotics with microcontrollers",
-  ]
-  
-Currently_learning: ["OS and Driver Development for Linux, Keyboard Design and Enginnering."]
-2025 Goals: ["To become a Embedded Linux expert while contributing education to the next generation that enters the field of electronics."]
-Hobbies: ["Listening to great music", "Retro Gaming", "Art", "Traveling"]
-```
-  
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="center">
+RoboTechi operates as the tech division — focused on:
+- Embedded Systems  
+- Electronics & Hardware Innovation  
+- Creative Coding  
+- Network & Infrastructure Systems  
+- Future-leaning digital + physical experiences  
 
-<p align="center">
-  
+> *Keep Your Vision Further Than Your Eyesight.*
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" widith="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"  width="45" height="45"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-</p>
+---
 
+## 🧠 CURRENT OPERATIONS
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-        
-
-
-
-
-
-
-
-
-
-
+```bash
+> Building systems that merge physical + digital worlds
+> Developing hardware concepts (NodeBlk, controllers, embedded devices)
+> Engineering immersive web experiences (AR / VR / interactive UI)
+> Designing platforms for culture, fashion, and tech (MENOCLONE)
