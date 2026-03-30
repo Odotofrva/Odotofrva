@@ -3,9 +3,6 @@
   <!-- If image doesn't render, replace with full URL (https://...) -->
   <img src="odotnyc3final.png" alt="OdotNYC Logo" width="400" />
 </p>
-
-<h1 align="center">ODOTNYC // ROBO TECHI</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=800&lines=ODOTNYC+OS+BOOTING...;ROBOTECHI+SYSTEM+ONLINE;ENGINEERING+CULTURE+FORWARD;CREATIVE+TECHNOLOGIST+ACTIVE;BUILDING+THE+FUTURE+IN+PUBLIC" alt="Typing Header" />
 </p>
