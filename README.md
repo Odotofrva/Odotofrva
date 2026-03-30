@@ -1,6 +1,7 @@
-<!-- ===================== ODOTNYC // README v3 ===================== -->
+<!-- ===================== ODOTNYC // README v3 (FIXED) ===================== -->
 <p align="center">
-  <img src="odotnyc3final.png" alt="OdotNYC Logo" width="400" />
+  <!-- If image doesn't render, replace with full URL (https://...) -->
+  <img src="odotnyc3final.png" alt="OdotNYC Logo" width="320" />
 </p>
 
 <h1 align="center">ODOTNYC // ROBO TECHI</h1>
@@ -10,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LIVE-00F0FF?style=for-the-badge" alt="Status Live" />
-  <img src="https://img.shields.io/badge/MODE-CREATIVE__TECH-111111?style=for-the-badge" alt="Creative Tech" />
-  <img src="https://img.shields.io/badge/SIGNAL-ODOTNYC-00F0FF?style=for-the-badge" alt="OdotNYC" />
+  <img src="https://img.shields.io/badge/STATUS-LIVE-00F0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODE-CREATIVE__TECH-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIGNAL-ODOTNYC-00F0FF?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -51,7 +52,7 @@ RoboTechi is the technology division inside that ecosystem — focused on buildi
   <tr>
     <td width="50%" valign="top">
 
-### `ROBOTECI_ENGINE/`
+### `ROBOTECHI_ENGINE/`
 ```bash
 > Computer Repair + Diagnostics
 > Embedded Systems + IoT Concepts
@@ -96,15 +97,15 @@ RoboTechi is the technology division inside that ecosystem — focused on buildi
 ## `LIVE_STATS.ui`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odotofrva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF&text_color=E6F7FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=odotofrva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF&text_color=E6F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Odotofrva&theme=tokyonight&hide_border=true&background=00000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odotofrva&theme=tokyonight&hide_border=true&background=00000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Odotofrva&bg_color=00000000&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=odotofrva&bg_color=00000000&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -112,7 +113,7 @@ RoboTechi is the technology division inside that ecosystem — focused on buildi
 ## `TECH_STACK.json`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,nodejs,git,github,arduino,raspberrypi,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,nodejs,git,github,arduino,raspberrypi,vscode" />
 </p>
 
 ```json
@@ -142,9 +143,9 @@ RoboTechi is the technology division inside that ecosystem — focused on buildi
 ## `FEATURED_SYSTEMS.exe`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROBOTECI-TECH__DIVISION-00F0FF?style=for-the-badge" alt="RoboTechi" />
-  <img src="https://img.shields.io/badge/NODEBLK-OFF__GRID__VISION-111111?style=for-the-badge" alt="NodeBlk" />
-  <img src="https://img.shields.io/badge/MENOCLONE-CULTURE__ENGINE-00F0FF?style=for-the-badge" alt="Menoclone" />
+  <img src="https://img.shields.io/badge/ROBOTECHI-TECH__DIVISION-00F0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NODEBLK-OFF__GRID__VISION-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MENOCLONE-CULTURE__ENGINE-00F0FF?style=for-the-badge" />
 </p>
 
 <table>
@@ -176,10 +177,10 @@ RoboTechi is the technology division inside that ecosystem — focused on buildi
 
 <p align="center">
   <a href="https://odotnyc.xyz">
-    <img src="https://img.shields.io/badge/ENTER-ODOTNYC.xyz-00F0FF?style=for-the-badge" alt="OdotNYC Website" />
+    <img src="https://img.shields.io/badge/ENTER-ODOTNYC.xyz-00F0FF?style=for-the-badge" />
   </a>
   <a href="https://medium.com/@almightyodot">
-    <img src="https://img.shields.io/badge/READ-TECH__BLOG-111111?style=for-the-badge" alt="Tech Blog" />
+    <img src="https://img.shields.io/badge/READ-TECH__BLOG-111111?style=for-the-badge" />
   </a>
 </p>
 
@@ -198,10 +199,8 @@ RoboTechi is the technology division inside that ecosystem — focused on buildi
 OdotNYC is not just a portfolio.  
 It is a living signal of what happens when **Technology, Art, and Fashion** move together.
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=00F0FF&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=00F0FF&section=footer" />
 </p>
 
 <p align="center">
