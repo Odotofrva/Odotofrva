@@ -1,7 +1,7 @@
 <!-- ===================== ODOTNYC // README v3 (FIXED) ===================== -->
 <p align="center">
   <!-- If image doesn't render, replace with full URL (https://...) -->
-  <img src="odotnyc3final.png" alt="OdotNYC Logo" width="320" />
+  <img src="odotnyc3final.png" alt="OdotNYC Logo" width="400" />
 </p>
 
 <h1 align="center">ODOTNYC // ROBO TECHI</h1>
@@ -204,5 +204,5 @@ It is a living signal of what happens when **Technology, Art, and Fashion** move
 </p>
 
 <p align="center">
-  <strong>ODOTNYC © 2026 // OdotNYC</strong>
+  <strong>ODOTNYC © 2026 // All Rights Are Reserved.</strong>
 </p>
