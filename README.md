@@ -196,21 +196,16 @@ RoboTechi is the technology division inside that ecosystem — focused on buildi
 ```
 
 OdotNYC is not just a portfolio.  
-It is a living signal of what happens when **vision, technology, and originality** move together.
+It is a living signal of what happens when **Technology, Art, and Fashion** move together.
 
 ---
 
-## `README_SETUP.txt`
 
-Replace these placeholders before pushing live:
-
-- `YOUR_LOGO_LINK_HERE`
-- `YOUR_GITHUB_USERNAME`
 
 For best results:
 1. Upload your logo to a repo or image host.
 2. Paste the direct image URL into `YOUR_LOGO_LINK_HERE`.
-3. Replace every `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+3. Replace every `Odotofrva` with your actual GitHub username.
 
 ---
 
@@ -219,5 +214,5 @@ For best results:
 </p>
 
 <p align="center">
-  <strong>ODOTNYC © 2026 // ALL SYSTEMS ACTIVE</strong>
+  <strong>ODOTNYC © 2026 // OdotNYC</strong>
 </p>
